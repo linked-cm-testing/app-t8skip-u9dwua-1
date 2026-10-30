@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run t8skip-u9dwua-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
