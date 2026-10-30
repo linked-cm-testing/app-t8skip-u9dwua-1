@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "t8skip-u9dwua-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/t8skip-u9dwua-assets-t8skip-u9dwua-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
